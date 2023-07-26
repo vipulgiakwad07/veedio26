@@ -1,0 +1,55 @@
+.top-menu {
+    
+    text-align: horizontal;
+    margin-left: 50px;
+    margin-top:-450px;;
+  }
+  
+  .top-left-menu {
+   
+    margin-left: 420px;
+    float: left;
+    
+  }
+  
+  .top-right-menu {
+    float: right;
+    padding: 10px;
+    margin-right: 5px;
+    margin-top: 10px;
+    
+  }
+  
+  .top-right-menu .dp-img {
+    padding: 10px;
+    border-radius: 50%;
+    text-decoration: none;
+    
+  }
+  
+  .btn-done{
+    
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin-right: 5px;
+    border-color: transparent;
+    /* background-color: antiquewhite; */
+    background-color: rgb(9, 9, 8);
+  }
+  
+  .btn-inv {
+    padding: 15px;
+    border-color: transparent;
+    border-radius: 5px;
+  }
+
+  
+  
+  .btn-up:hover {
+    background-color: rgb(245, 208, 117);
+  }
+  .btn-inv:hover {
+    background-color: gray;
+  }
+  

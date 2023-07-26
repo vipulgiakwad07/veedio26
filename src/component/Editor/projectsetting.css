@@ -1,0 +1,18 @@
+.container{
+   /* padding-left: 200px;*/
+   width: 270px; 
+   margin-top: -600px;
+   margin-left:95px;
+   height: 529px; 
+  }
+
+  li{
+    text-decoration: none;
+    border:'1px solid #ccc';
+    padding:'1% 80%';
+    border-radius: 5px;
+  }
+
+ button{
+    text-decoration: none;
+  }

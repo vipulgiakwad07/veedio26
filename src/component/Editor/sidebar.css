@@ -1,0 +1,35 @@
+.sidebar {
+  /* border-right: black;*/
+  border-style: groove;
+  width: 80px;
+  height: 100%;  /* 08-07-23*/
+}
+.sidebar#button{
+
+  font-size: 1em;
+ 
+}
+
+.sidebar button {
+  text-align: center;
+  border-color: transparent;
+  background-color: transparent;
+  width: 90%;
+  padding: 15px;
+  margin: 2px;
+  align-items: center;
+}
+
+.sidebar button:hover {
+  background-color: rgb(85, 85, 189);
+}
+
+
+.ProjectSettings{
+  display: none;
+}
+
+.settingbutton:hover+.ProjectSettings {
+  display: block;
+  color: brown;
+}

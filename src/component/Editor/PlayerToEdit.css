@@ -1,0 +1,108 @@
+.New-editorpage{
+  margin-left: -100px;
+}
+
+.player{
+    /* padding-left: 160px; new*/
+    padding-top: 60px;
+    margin-top: -550px;
+    margin-left: 370px;
+    padding-left: 10%;
+    height: 100%px;
+    background-color: rgb(216, 235, 230);
+    
+  }
+
+  .player #ReactPlayer{
+    /* margin-top: 50px; */
+   text-align: center;
+  }
+
+   #file-upload-button {
+    padding:6px;
+    background-color: antiquewhite;
+  }
+
+
+  .grid-container {
+
+    display: grid;
+    /* gap: 5px 10px; */
+    grid-template-columns: 290px 250px 75px;
+    margin-left: -130px;
+    padding: 2px;
+    width: 100%;
+    
+  }
+
+  
+  
+  .grid-item {
+    margin: 5px;
+    width: 170px;
+    height: 140px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+  }
+
+  .seekBar{
+    /* -webkit-appearance: slider-vertical; */
+    width:800px;
+    background: rgb(206, 204, 204);
+    appearance: none;
+    outline: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    height: 90px;
+    border: solid black;
+    border-radius: 10px;   
+}
+
+.seekBar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  margin-top: -20px;
+
+  appearance: none;
+  width: 25px;
+  height: 150px;
+  background: #419bd7;
+  cursor: pointer;
+}
+.seekBar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 5px;
+  height: 120px;
+  background: #419bd7;
+  cursor: pointer;
+}
+
+.seekBar::-moz-range-thumb {
+  width: px;
+  height: 100px;
+  background: #419bd7;
+  cursor: pointer;
+}
+
+.playbtn{
+margin: 5px;
+border-radius: 5px;
+}
+
+
+.properties{
+  position: relative;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  margin-top:-460px;
+  margin-right: 35px;
+}
+
+.form-div{
+  margin-bottom: 30px;
+  margin-left: -439px;
+  margin-right: 50px;
+}
+

@@ -1,0 +1,10 @@
+.vid-pl {
+  /* padding-left: 160px; 
+  border-radius: 2px; */
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  margin-left: -570px;
+  margin-top: 200px;
+  padding: 5px;
+  column-gap: 20px;
+}

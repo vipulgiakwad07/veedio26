@@ -1,0 +1,11 @@
+.body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding-left: 160px; /*new*/
+  background-color: rgb(228, 222, 222);
+}
+
+.mid-pane {
+  margin-top: 100px;
+}
